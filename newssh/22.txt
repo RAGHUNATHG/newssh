@@ -1,0 +1,2 @@
+upto now by using the URL of github commit nd push was done 
+but now by using SSH we r going to get access to push to origin by the SSH
